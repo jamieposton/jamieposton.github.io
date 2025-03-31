@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: whoami
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jamie Poston. I'm a machine learning engineer with a passion for natural language processing, robotics, and computer vision. I'm on the job hunt for my next role! Here are some of my highlight qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My Python skills are exemplary: I can troubleshoot and add features til the sun comes down.
+- I have a solid understanding of machine learning fundamentals and how to apply them in cost-effective and solution-oriented methods.
+- I am a definite culture addition: I led a team-building guild at my last role, organizing cross-team book clubs and facilitating multi-background creative projects.
+- My communication skills are on point. I can describe my findings to a team of engineers, product managers, and/or data scientists and make sure all our questions are answered and we're on the same page.
+- I have experience with the real-world issues of deploying production-level machine learning models to multiple consumers with multiple stakeholders and making sure all our needs are heard and addressed.
+- I can juggle multiple repositories and microservices and make sure their deployment process is consistent and easy to use for our developers.
+- I can also juggle in real-life!
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sound like a good fit? Feel free to reach out to chat!
