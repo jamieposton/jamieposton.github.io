@@ -22,10 +22,10 @@ author: Jamie Poston
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - I'm Walking Here!: "https://www.jamieposton.github.io/imwalkinghere/"
-    - Predicting Agent Behavior by Estimating Motion Planners: "https://www.jamieposton.github.io/mastersthesis/"
+    - I'm Walking Here!: "https://jamieposton.github.io/imwalkinghere/"
+    - Predicting Agent Behavior by Estimating Motion Planners: "https://jamieposton.github.io/mastersthesis/"
   Linkedin: "https://www.linkedin.com/in/jposton/"
-  Contact:  "https://www.jamieposton.github.io/contact/"
+  Contact:  "https://jamieposton.github.io/contact/"
 
 ################
 # --- Logo --- #

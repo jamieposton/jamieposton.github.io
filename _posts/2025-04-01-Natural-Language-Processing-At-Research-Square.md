@@ -2,12 +2,10 @@
 layout: post
 title: Natural Language Processing and Engineering Work at Research Square
 cover-img: /assets/img/jamieatrs.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/jamieatrs.png
 share-img: /assets/img/jamieatrs.jpg
 author: Jamie Poston
 ---
-
-![Jamie at Research Square](/assets/img/jamieatrs.jpg)
 
 I worked at Research Square for nearly 5 years. While I won't be able to go into the details of what I did there, the gist of it is that I worked on models that made edits to sentences for the purpose of helping authors with their writing before submitting scientific papers to journals and conferences. I did everything from model training to developing new methods of model evaluation for different tasks. I supported the automation team with deployments and code maintance, and participated in detailed design and code reviews.
 

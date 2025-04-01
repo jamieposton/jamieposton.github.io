@@ -2,7 +2,7 @@
 layout: post
 title: Volunteer Outreach with FIRST Tech Challenge and FIRST Lego League
 cover-img: /assets/img/jamieatFIRST.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/jamieatFIRST.png
 share-img: /assets/img/jamieatFIRST.jpg
 author: Jamie Poston
 ---
