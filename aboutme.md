@@ -18,6 +18,10 @@ Sound like a good fit? Feel free to reach out to chat.
 
 ## Background
 
+For the past five years, I worked at Research Square doing [Machine Learning for scientific editing.](jamieposton.github.io/2025-04-01-Natural-Language-Processing-At-Research-Square/)
+
+I also [volunteered](jamieposton.github.io/2025-04-01-volunteering-with-FIRST/) at robotics competitions.
+
 I graduated from the University of Nevada, Reno with both a bachelor's and master's degree in Computer Science and Engineering. My academic focus was on machine learning and robotics, which were the subjects of my [senior project](jamieposton.github.io/imwalkinghere) and [master's thesis](jamieposton.github.io/mastersthesis).
 
 During my time in school, I took a variety of courses related to machine learning and robotics, including:
@@ -34,7 +38,5 @@ During my time in school, I took a variety of courses related to machine learnin
 - Machine Learning Applications
 
 In addition to my coursework, I also made time for clubs and organizations during college, including the Nevada Cyber Club, the Association for Computing Machinery, Plant Club, and the Queer Student Union.
-
-[For the past five years, I worked at Research Square doing Machine Learning for scientific editing.](jamieposton.github.io/2025-04-01-Natural-Language-Processing-At-Research-Square/) [I also volunteered at robotics competitions.](jamieposton.github.io/2025-04-01-volunteering-with-FIRST/)
 
 In my free time I enjoy gardening and playing video games, depending on the season.
