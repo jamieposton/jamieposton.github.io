@@ -21,10 +21,11 @@ author: Jamie Poston
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.linkedin.com/in/jposton/"
+  Projects:
+    - I'm Walking Here!: "https://www.jamieposton.github.io/imwalkinghere/"
+    - Predicting Agent Behavior by Estimating Motion Planners: "https://www.jamieposton.github.io/mastersthesis/"
+  Linkedin: "https://www.linkedin.com/in/jposton/"
+  Contact:  "https://www.jamieposton.github.io/contact/"
 
 ################
 # --- Logo --- #
