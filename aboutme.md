@@ -35,4 +35,6 @@ During my time in school, I took a variety of courses related to machine learnin
 
 In addition to my coursework, I also made time for clubs and organizations during college, including the Nevada Cyber Club, the Association for Computing Machinery, Plant Club, and the Queer Student Union.
 
+[For the past five years, I worked at Research Square doing Machine Learning for scientific editing.](jamieposton.github.io/2025-04-01-Natural-Language-Processing-At-Research-Square/) [I also volunteered at robotics competitions.](jamieposton.github.io/2025-04-01-volunteering-with-FIRST/)
+
 In my free time I enjoy gardening and playing video games, depending on the season.
