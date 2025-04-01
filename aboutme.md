@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Native Nevadian and Excitable Engineer
+subtitle: Native Nevadan and Excitable Engineer
 ---
 
 My name is Jamie Poston. I'm a machine learning engineer with a passion for natural language processing, robotics, and computer vision. I'm on the job hunt for my next role. Here are some of my highlight qualities:
