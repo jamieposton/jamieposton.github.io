@@ -5,7 +5,7 @@ title: Predicting Agent Behavior by Estimating Motion Planners
 
 ### Predicting Agent Behavior by Estimating Motion Planners
 
-TODO: Add RRT* photo
+![RRT* LSTM MDN on curved path](/assets/img/mastersresults.png)
 
 Autonomous vehicles often use a path planner to plot a trajectory for themselves. If we assume that other vehicles around us are using a path planner, we can use that assumption to predict where they're headed.
 

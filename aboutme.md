@@ -33,13 +33,15 @@ I took a bunch of machine learning and robotics related classes, including:
 - Operations Research
 - Machine Learning Applications
 
-Besides classes, I also made time for clubs and organizations during college, including the Nevada Cyber Club, the Association for Computing Machinery, Plant Club, and the Queer Student Union.  
+Besides classes, I also made time for clubs and organizations during college, including the Nevada Cyber Club, the Association for Computing Machinery, Plant Club, and the Queer Student Union.
+
+I've worked on a couple projects that you can find highlighted in the navbar, including my master's thesis: [Predicting Agent Behavior by Estimating Motion Planners](https://www.jamieposton.github.io/mastersthesis/)
 
 In my free time I enjoy gardening and playing video games, depending on the time of year.
 
 ### Natural Language Processing and Engineering Work at Research Square
 
-TODO: Add RS selfie
+![Jamie at Research Square](/assets/img/jamieatrs.jpg)
 
 I worked at Research Square for nearly 5 years. While I won't be able to go into the details of what I did there, the gist of it is that I worked on models that made edits to sentences for the purpose of helping authors with their writing before submitting scientific papers to journals and conferences. I did everything from model training to developing new methods of model evaluation for different tasks. I supported the automation team with deployments and code maintance, and participated in detailed design and code reviews.
 
@@ -54,5 +56,3 @@ From 2016 to 2024, I volunteered as a Game Announcer and Master of Ceremonies fo
 My time announcing culminated with two back-to-back years volunteering at the FIRST World Championship in Houston, Texas. Going from smaller Nevada competitions of 30 teams over 5 times that number was mind boggling! [Here's a timestamp of one of the matches I announced for, from the Franklin division.](https://youtu.be/ro3xkQsvzQw?t=5332)
 
 I also was lucky enough to coach the Crazy Canary Controllers/Constant Voltage from 2020-2022. Coaching was such a rewarding experience and it was so exciting to see the team strive for success in mechanical and computer science engineering. My philosophy was to make sure the students did the majority of the work, while my role was to make sure the administrative side went smoothly and to help troubleshoot issues with the robot. Since we were a relatively new team, our goal was to be "Not last!". And we made it! We ended up placing near the middle of the pack which was amazing, and they were even recognized with an award for their programming skills. 
-
-TODO: Crazy Canary Controllers Picture
