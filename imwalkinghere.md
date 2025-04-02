@@ -4,7 +4,7 @@ title: I'm Walking Here!
 subtitle: Pedestrian Intent Recognition. Identifying Future Pedestrian Trajectory Using Machine Learning On-Board an Autonomous Vehicle
 ---
 
-It's a long title, but it boils down to predicting where a pedestrian is going to walk based on their posture at the time. If someone is standing at a crosswalk and facing away from the street, they're unlikey to cross. If someone is looking back and forth at cars, they're more likely to begin crossing. This information could allow an autonomous vehicle to predict their future tractory and plan accordingly.
+It's a long title, but it boils down to predicting where a pedestrian is going to walk based on their posture at the time. If someone is standing at a crosswalk and facing away from the street, they're unlikely to cross. If someone is looking back and forth at cars, they're more likely to begin crossing. This information could allow an autonomous vehicle to predict their future tractory and plan accordingly.
 
 ![Example of a pedestrian path prediction based on posture](/assets/img/imwalkinghereresults.png)
 
