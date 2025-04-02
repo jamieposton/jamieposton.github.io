@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Natural Language Processing and Engineering Work at Research Square
-cover-img: /assets/img/jamieatrs.jpg
-share-img: /assets/img/jamieatrs.jpg
+cover-img: /assets/img/durhamskyline.jpg
+share-img: /assets/img/durhamskyline.jpg
 author: Jamie Poston
 ---
 
 I worked at Research Square for nearly five years. While I can't go into the specifics of my work, the main focus was developing models that helped authors improve their writing before submitting scientific papers to journals and conferences. My responsibilities ranged from model training to developing new methods for evaluating models on different tasks. I supported the automation team with deployments and code maintenance and participated in detailed design and code reviews.
+
+![Jamie in front of the Research Square home office logo](/assets/img/jamieatrs.jpg)
 
 One of my latest projects was standardizing the build process over 11 separate repositories. Even though this wasn't directly related to machine learning, it was still one of my favorite projects because I could see how it made a difference with my team by allowing them to more rapidly iterate and develop. Another key experience was mentoring a machine learning intern over the summer of 2022. I helped him with everything from initial setup to model training to presenting the final results of the project.
 
